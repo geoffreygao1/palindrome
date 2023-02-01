@@ -98,3 +98,6 @@
 /Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/palindrome/Palindrome.Solution/Palindrome.Tests/obj/Debug/net6.0/Palindrome.Tests.pdb
 /Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/palindrome/Palindrome.Solution/Palindrome.Tests/obj/Debug/net6.0/Palindrome.Tests.genruntimeconfig.cache
 /Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/palindrome/Palindrome.Solution/Palindrome.Tests/obj/Debug/net6.0/ref/Palindrome.Tests.dll
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/palindrome/Palindrome.Solution/Palindrome.Tests/bin/Debug/net6.0/Palindrome.deps.json
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/palindrome/Palindrome.Solution/Palindrome.Tests/bin/Debug/net6.0/Palindrome.runtimeconfig.json
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/palindrome/Palindrome.Solution/Palindrome.Tests/bin/Debug/net6.0/Palindrome

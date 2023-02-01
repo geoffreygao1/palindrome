@@ -10,3 +10,6 @@
 /Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/palindrome/Palindrome.Solution/Palindrome/obj/Debug/net6.0/refint/Palindrome.dll
 /Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/palindrome/Palindrome.Solution/Palindrome/obj/Debug/net6.0/Palindrome.pdb
 /Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/palindrome/Palindrome.Solution/Palindrome/obj/Debug/net6.0/ref/Palindrome.dll
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/palindrome/Palindrome.Solution/Palindrome/bin/Debug/net6.0/Palindrome
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/palindrome/Palindrome.Solution/Palindrome/bin/Debug/net6.0/Palindrome.runtimeconfig.json
+/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/palindrome/Palindrome.Solution/Palindrome/obj/Debug/net6.0/Palindrome.genruntimeconfig.cache
