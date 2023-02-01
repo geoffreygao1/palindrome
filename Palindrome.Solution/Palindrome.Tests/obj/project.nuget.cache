@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "crju8sTCYzb8e+zjy5N90DMLoOAWBBF472iYbCt8W6/J3x1VJahWksadtVRaWjUUptimSpqeXdNi9LpNKzdTqg==",
+  "dgSpecHash": "ROBJvcOqGfUhEHhYMZJ26xDBg/ATf7lO89ODw41mL23kOZB0IkksyDCw4cdNIcE3eLZgtb7G8868m6ocfkBwAw==",
   "success": true,
-  "projectFilePath": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/ProjectName.Solution/ProjectName.Tests/ProjectName.Tests.csproj",
+  "projectFilePath": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/palindrome/Palindrome.Solution/Palindrome.Tests/Palindrome.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/geoffreygao/.nuget/packages/microsoft.codecoverage/17.3.2/microsoft.codecoverage.17.3.2.nupkg.sha512",
     "/Users/geoffreygao/.nuget/packages/microsoft.csharp/4.3.0/microsoft.csharp.4.3.0.nupkg.sha512",

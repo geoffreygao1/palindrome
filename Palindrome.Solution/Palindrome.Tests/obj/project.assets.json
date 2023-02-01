@@ -1896,14 +1896,14 @@
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
       },
-      "ProjectName/1.0.0": {
+      "Palindrome/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/ProjectName.dll": {}
+          "bin/placeholder/Palindrome.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ProjectName.dll": {}
+          "bin/placeholder/Palindrome.dll": {}
         }
       }
     }
@@ -6715,10 +6715,10 @@
         "system.xml.xmldocument.nuspec"
       ]
     },
-    "ProjectName/1.0.0": {
+    "Palindrome/1.0.0": {
       "type": "project",
-      "path": "../ProjectName/ProjectName.csproj",
-      "msbuildProject": "../ProjectName/ProjectName.csproj"
+      "path": "../Palindrome/Palindrome.csproj",
+      "msbuildProject": "../Palindrome/Palindrome.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6726,7 +6726,7 @@
       "MSTest.TestAdapter >= 2.2.10",
       "MSTest.TestFramework >= 2.2.10",
       "Microsoft.NET.Test.Sdk >= 17.3.2",
-      "ProjectName >= 1.0.0"
+      "Palindrome >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6735,11 +6735,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/ProjectName.Solution/ProjectName.Tests/ProjectName.Tests.csproj",
-      "projectName": "ProjectName.Tests",
-      "projectPath": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/ProjectName.Solution/ProjectName.Tests/ProjectName.Tests.csproj",
+      "projectUniqueName": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/palindrome/Palindrome.Solution/Palindrome.Tests/Palindrome.Tests.csproj",
+      "projectName": "Palindrome.Tests",
+      "projectPath": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/palindrome/Palindrome.Solution/Palindrome.Tests/Palindrome.Tests.csproj",
       "packagesPath": "/Users/geoffreygao/.nuget/packages/",
-      "outputPath": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/ProjectName.Solution/ProjectName.Tests/obj/",
+      "outputPath": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/palindrome/Palindrome.Solution/Palindrome.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/geoffreygao/.nuget/NuGet/NuGet.Config"
@@ -6754,8 +6754,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/ProjectName.Solution/ProjectName/ProjectName.csproj": {
-              "projectPath": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/ProjectName.Solution/ProjectName/ProjectName.csproj"
+            "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/palindrome/Palindrome.Solution/Palindrome/Palindrome.csproj": {
+              "projectPath": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/palindrome/Palindrome.Solution/Palindrome/Palindrome.csproj"
             }
           }
         }
