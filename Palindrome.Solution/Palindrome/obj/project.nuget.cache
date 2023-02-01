@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sSP0hJGX2N5QENkokcd2iOWCI5Z1jx0+fDglFkAHEhanYSVjCnHwLL9TSvddfs5wHz/AHdBvSZUBqdo+pGDMIw==",
+  "dgSpecHash": "CCl1ITzdpE4Ozc9QizljEPVgOpPqpEgc/wfii+Jz4HACF1y3kQihF9vJt4M0vRGWdJqx3uNEyEehmzUFYCBDHQ==",
   "success": true,
-  "projectFilePath": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/ProjectName.Solution/ProjectName/ProjectName.csproj",
+  "projectFilePath": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/palindrome/Palindrome.Solution/Palindrome/Palindrome.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

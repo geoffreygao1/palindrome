@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/ProjectName.Solution/ProjectName/ProjectName.csproj",
-      "projectName": "ProjectName",
-      "projectPath": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/ProjectName.Solution/ProjectName/ProjectName.csproj",
+      "projectUniqueName": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/palindrome/Palindrome.Solution/Palindrome/Palindrome.csproj",
+      "projectName": "Palindrome",
+      "projectPath": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/palindrome/Palindrome.Solution/Palindrome/Palindrome.csproj",
       "packagesPath": "/Users/geoffreygao/.nuget/packages/",
-      "outputPath": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/ProjectName.Solution/ProjectName/obj/",
+      "outputPath": "/Users/geoffreygao/Desktop/Epicodus/Test Driven Development with C#/palindrome/Palindrome.Solution/Palindrome/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/geoffreygao/.nuget/NuGet/NuGet.Config"
